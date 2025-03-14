@@ -1,3 +1,1 @@
-# Portfolio
-Project
-https://github.com/Bharath7449/Portfolio/
+https://bharath7449.github.io/Portfolio/
